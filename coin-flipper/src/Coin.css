@@ -1,0 +1,9 @@
+.Coin-img{
+    display: flex;
+    width: 10rem;
+    border-radius: 80%;
+    padding: 25px;
+    z-index:5;
+    align-items: center;
+    margin-left: 27%;
+}
